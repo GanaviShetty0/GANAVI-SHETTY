@@ -1,0 +1,19 @@
+abstract class Car{
+ public static void watch()
+ {
+ 
+ }
+ public void seat ()
+ {
+ 
+ }
+ static void air bag()
+ {
+ 
+ }
+ void gear box()
+ {
+ 
+ }
+ abstract void stearing();
+}
